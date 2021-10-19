@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("I new branch.");
 
+
         System.out.println("Здравствуйте, введите размерность вашего ввектора.");
         int the_size = Integer.parseInt(scan.nextLine());
 
